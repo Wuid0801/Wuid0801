@@ -31,3 +31,10 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+
+
+### 📚 Study
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?&style=for-the-badge&logo=Supabase&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?&style=for-the-badge&logo=Socket.io&logoColor=white)
