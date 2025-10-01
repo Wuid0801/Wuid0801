@@ -25,7 +25,8 @@
 ![styledcomponents](https://img.shields.io/badge/styledcomponents-DB7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=white)
 ![recoil](https://img.shields.io/badge/recoil-3578E5.svg?&style=for-the-badge&logo=recoil&logoColor=white)
 ![axios](https://img.shields.io/badge/axios-5A29E4.svg?&style=for-the-badge&logo=axios&logoColor=white)
-
+![Expo](https://img.shields.io/badge/Expo-000000.svg?&style=for-the-badge&logo=Expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
 
 
 ### Tools
