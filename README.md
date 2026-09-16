@@ -14,32 +14,32 @@
 
 `2025.06 — Present`
 
-- Develop and maintain enterprise web and admin services using React and jQuery
-- Refactor legacy code and implement complex UI interactions
+- Develop enterprise web and admin services using React and jQuery
+- Refactor legacy code and build complex UI interactions
 - Implement parallel processing for large-file uploads
 - Improve UI/UX, performance, and service reliability
-- Investigate and resolve production issues
+- Troubleshoot and resolve production issues
 
 ## Featured Projects
 
 ### [Idolly](https://idolly.ai) — AI Idol Platform
 
-- 74K+ Users / 100K+ NFTs / $2M+ Trading Volume
+- 74K+ Users · 100K+ NFTs · $2M+ Trading Volume
 - Built real-time chat with SSE, Optimistic UI, and Infinite Scroll
-- Developed Avatar / Image / Video Generation features
-- Integrated Privy, Web3Auth, and Solana Wallet
-- Optimized Next.js bundle loading with dynamic imports and dependency trimming
+- Developed AI avatar, image, and video generation flows
+- Integrated Web3Auth, Privy, and Solana wallet
+- Optimized Next.js bundles via dynamic imports and dependency trimming
 - Reduced initial chunks by 20.9% and First Load JS from 618 kB to 483 kB
 
 `Next.js 14` · `TypeScript` · `Tailwind CSS`
 
 ### [Anchors Corporate Website](https://www.anchors-biz.com/) — Renewal & Enhancement
 
-- Built a new 3D Tech page with Three.js-based interactions
-- Developed reusable Parallax, Modal, and 3D Carousel components
-- Optimized LCP with WebP assets, image preloading, loading priority, and viewport-based lazy loading
-- Improved Lighthouse Performance from 68 to 96 and reduced LCP from 8.0s to 1.5s
-- Improved responsive UI and mobile scroll / touch interactions
+- Developed an interactive 3D Tech page using Three.js
+- Built reusable Parallax, Modal, and 3D Carousel components
+- Optimized LCP with WebP, image preloading, and lazy loading
+- Improved Lighthouse Performance score from 68 to 96 and LCP from 8.0s to 1.5s
+- Enhanced responsive UI and mobile touch interactions
 
 `Next.js 16` · `React 19` · `Three.js` · `React Three Fiber` · `SCSS`
 
@@ -49,9 +49,9 @@
 React · Next.js · TypeScript · JavaScript · React Native
 
 **Styling**  
-Tailwind CSS · SCSS · CSS · HTML
+Tailwind CSS · SCSS · CSS
 
-**State & Data**  
+**Data & Networking**  
 TanStack Query · Axios
 
 **3D & Interaction**  
