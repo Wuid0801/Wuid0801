@@ -45,6 +45,16 @@
 
 `Next.js 16` · `React 19` · `Three.js` · `React Three Fiber` · `SCSS`
 
+### [PrediX](https://github.com/predixrun) — AI-Powered Prediction Market
+
+`2025.03 — 2025.04`
+
+* 🥈 2nd Place — Wormhole Track, Seoulana 2025
+* Built real-time AI agent chat for sports prediction using Socket.IO
+* Integrated Privy authentication and Web3 transactions across Solana and Base
+
+`React` · `TypeScript` · `Privy` · `Socket.IO` · `Solana` · `ethers`
+
 ## Tech Stack
 
 **Frontend**  
