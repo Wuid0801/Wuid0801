@@ -22,6 +22,18 @@
 
 ## Featured Projects
 
+### [Anchors Corporate Website](https://www.anchors-biz.com/) — Renewal & Enhancement
+
+- Developed an interactive 3D Tech page using Three.js
+- Built reusable Parallax, Modal, and 3D Carousel components
+- Optimized LCP with WebP, image preloading, and lazy loading
+- Improved Lighthouse Performance score from 68 to 96 and LCP from 8.0s to 1.5s
+- Enhanced responsive UI and mobile touch interactions
+
+`Next.js 16` · `React 19` · `Three.js` · `React Three Fiber` · `SCSS`
+
+## Selected Projects
+
 ### [Idolly](https://idolly.ai/) — AI Idol Platform
 
 `2025.04 — Present`
@@ -34,16 +46,6 @@
 * Reduced initial chunks by 20.9% and First Load JS from 618 kB to 483 kB
 
 `Next.js 14` · `TypeScript` · `Tailwind CSS`
-
-### [Anchors Corporate Website](https://www.anchors-biz.com/) — Renewal & Enhancement
-
-- Developed an interactive 3D Tech page using Three.js
-- Built reusable Parallax, Modal, and 3D Carousel components
-- Optimized LCP with WebP, image preloading, and lazy loading
-- Improved Lighthouse Performance score from 68 to 96 and LCP from 8.0s to 1.5s
-- Enhanced responsive UI and mobile touch interactions
-
-`Next.js 16` · `React 19` · `Three.js` · `React Three Fiber` · `SCSS`
 
 ### [PrediX](https://github.com/predixrun) — AI-Powered Prediction Market
 
