@@ -32,6 +32,18 @@
 
 `Next.js 16` · `React 19` · `Three.js` · `React Three Fiber` · `SCSS`
 
+#### Brand Management System
+
+`2025.09 — Present`
+
+- Maintain and enhance user-facing web and admin systems
+- Developed user and admin UI features and integrated backend APIs
+- Reduced 8.3GiB file processing time from 152.1s to 71.6s, a 52.9% improvement, 
+  through worker-based parallel chunk processing and Binary transfer optimization
+- Upgraded to React 19 and replaced incompatible libraries
+
+`React 19` · `JavaScript` · `jQuery` · `Axios`
+
 ## Selected Projects
 
 ### [Idolly](https://idolly.ai/) — AI Idol Platform
