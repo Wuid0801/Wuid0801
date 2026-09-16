@@ -12,7 +12,7 @@
 
 ### Frontend Developer — Anchors Inc.
 
-`2026.06 — Present`
+`2025.06 — Present`
 
 - Develop and maintain enterprise web and admin services using React and jQuery
 - Refactor legacy code and implement complex UI interactions
