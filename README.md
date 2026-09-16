@@ -28,16 +28,18 @@
 - Built real-time chat with SSE, Optimistic UI, and Infinite Scroll
 - Developed Avatar / Image / Video Generation features
 - Integrated Privy, Web3Auth, and Solana Wallet
-- Reduced First Load JS from 618 kB to 292 kB (-52.8%)
+- Optimized Next.js bundle loading with dynamic imports and dependency trimming
+- Reduced initial chunks by 20.9% and First Load JS from 618 kB to 483 kB
 
 `Next.js 14` · `TypeScript` · `Tailwind CSS`
 
 ### [Anchors Corporate Website](https://www.anchors-biz.com/) — Renewal & Enhancement
 
 - Built a new 3D Tech page with Three.js-based interactions
-- Developed reusable Parallax, Scroll, and Modal interaction components
-- Improved initial loading performance with Server Components, Image Preload, and Dynamic Imports
-- Improved web accessibility, responsive UI, and Safari / iOS compatibility
+- Developed reusable Parallax, Modal, and 3D Carousel components
+- Optimized LCP with WebP assets, image preloading, loading priority, and viewport-based lazy loading
+- Improved Lighthouse Performance from 68 to 96 and reduced LCP from 8.0s to 1.5s
+- Improved responsive UI and mobile scroll / touch interactions
 
 `Next.js 16` · `React 19` · `Three.js` · `React Three Fiber` · `SCSS`
 
