@@ -22,14 +22,16 @@
 
 ## Featured Projects
 
-### [Idolly](https://idolly.ai) — AI Idol Platform
+### [Idolly](https://idolly.ai/) — AI Idol Platform
 
-- 74K+ Users · 100K+ NFTs · $2M+ Trading Volume
-- Built real-time chat with SSE, Optimistic UI, and Infinite Scroll
-- Developed AI avatar, image, and video generation flows
-- Integrated Web3Auth, Privy, and Solana wallet
-- Optimized Next.js bundles via dynamic imports and dependency trimming
-- Reduced initial chunks by 20.9% and First Load JS from 618 kB to 483 kB
+`2025.04 — Present`
+
+* 🥈 2nd Place — Solana Startup Village Seoul Season 2
+* 74K+ Users · 100K+ NFTs · $2M+ Trading Volume
+* Built real-time AI chat with SSE, Optimistic UI, and Infinite Scroll
+* Developed avatar, image, and video generation flows
+* Integrated Web3Auth, Privy, and Solana wallet
+* Reduced initial chunks by 20.9% and First Load JS from 618 kB to 483 kB
 
 `Next.js 14` · `TypeScript` · `Tailwind CSS`
 
