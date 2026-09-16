@@ -32,7 +32,7 @@
 
 `Next.js 16` · `React 19` · `Three.js` · `React Three Fiber` · `SCSS`
 
-#### Brand Management System
+### Brand Management System
 
 `2025.09 — Present`
 
