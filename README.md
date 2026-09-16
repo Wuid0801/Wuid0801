@@ -38,8 +38,7 @@
 
 - Maintain and enhance user-facing web and admin systems
 - Developed user and admin UI features and integrated backend APIs
-- Reduced 8.3GiB file processing time from 152.1s to 71.6s, a 52.9% improvement, 
-  through worker-based parallel chunk processing and Binary transfer optimization
+- Reduced 8.3GiB file upload time from 152.1s to 109.6s, a 27.9% improvement, through worker-based parallel chunk processing and upload queue optimization
 - Upgraded to React 19 and replaced incompatible libraries
 
 `React 19` · `JavaScript` · `jQuery` · `Axios`
