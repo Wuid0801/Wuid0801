@@ -22,29 +22,6 @@
 
 ## Featured Projects
 
-### [Anchors Corporate Website](https://www.anchors-biz.com/) — Renewal & Enhancement
-
-- Developed an interactive 3D Tech page using Three.js
-- Built reusable Parallax, Modal, and 3D Carousel components
-- Optimized LCP with WebP, image preloading, and lazy loading
-- Improved Lighthouse Performance score from 68 to 96 and LCP from 8.0s to 1.5s
-- Enhanced responsive UI and mobile touch interactions
-
-`Next.js 16` · `React 19` · `Three.js` · `React Three Fiber` · `SCSS`
-
-### Brand Management System
-
-`2025.09 — Present`
-
-- Maintain and enhance user-facing web and admin systems
-- Developed user and admin UI features and integrated backend APIs
-- Reduced 8.3GiB file upload time from 152.1s to 109.6s, a 27.9% improvement, through worker-based parallel chunk processing and upload queue optimization
-- Upgraded to React 19 and replaced incompatible libraries
-
-`React 19` · `JavaScript` · `jQuery` · `Axios`
-
-## Selected Projects
-
 ### [Idolly](https://idolly.ai/) — AI Idol Platform
 
 `2025.04 — Present`
@@ -57,6 +34,31 @@
 * Reduced initial chunks by 20.9% and First Load JS from 618 kB to 483 kB
 
 `Next.js 14` · `TypeScript` · `Tailwind CSS`
+
+### Brand Management System
+
+`2025.09 — Present`
+
+- Maintain and enhance user-facing web and admin systems
+- Developed user and admin UI features and integrated backend APIs
+- Reduced 8.3GiB file upload time from 152.1s to 109.6s, a 27.9% improvement, through worker-based parallel chunk processing and upload queue optimization
+- Upgraded to React 19 and replaced incompatible libraries
+
+`React 19` · `JavaScript` · `jQuery` · `Axios`
+
+### [Anchors Corporate Website](https://www.anchors-biz.com/) — Renewal & Enhancement
+
+`2026.03 — 2026.05`
+
+- Developed an interactive 3D Tech page using Three.js
+- Built reusable Parallax, Modal, and 3D Carousel components
+- Optimized LCP with WebP, image preloading, and lazy loading
+- Improved Lighthouse Performance score from 68 to 96 and LCP from 8.0s to 1.5s
+- Enhanced responsive UI and mobile touch interactions
+
+`Next.js 16` · `React 19` · `Three.js` · `React Three Fiber` · `SCSS`
+
+## Selected Projects
 
 ### [PrediX](https://github.com/predixrun) — AI-Powered Prediction Market
 
