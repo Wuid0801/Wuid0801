@@ -39,10 +39,10 @@
 
 `2025.09 — Present`
 
-- Maintain and enhance user-facing web and admin systems
-- Developed user and admin UI features and integrated backend APIs
-- Reduced 8.3GiB file upload time from 152.1s to 109.6s, a 27.9% improvement, through worker-based parallel chunk processing and upload queue optimization
-- Upgraded to React 19 and replaced incompatible libraries
+* Maintain and enhance user-facing web and admin systems
+* Developed user and admin UI features and integrated backend APIs
+* Cut 1 GiB file upload time from ~62s to ~12s (~80%) by replacing sequential chunk uploads with a bounded-concurrency async worker pool
+* Upgraded to React 19 and replaced incompatible libraries
 
 `React 19` · `JavaScript` · `jQuery` · `Axios`
 
